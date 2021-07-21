@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Teretana",
+      "day": "Jun 20. u 17:00h",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Ves",
+      "day": "Jun 30. u 12:00h",
+      "reminder": false
+    },
+    {
+      "text": "Posao",
+      "day": "svaki dan",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
